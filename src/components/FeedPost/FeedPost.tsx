@@ -92,7 +92,7 @@ const FeedPost = ({post}: IFeedPost) => {
         ))}
 
         {/* Posted Date */}
-        <Text>{post.createdAt}</Text>
+        <Text style={{color: 'grey'}}>{post.createdAt}</Text>
       </View>
     </View>
   );
