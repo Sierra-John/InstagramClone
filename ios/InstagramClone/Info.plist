@@ -35,6 +35,10 @@
 			</dict>
 		</dict>
 	</dict>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Give InstagramClone permission to access your photo library</string>
+
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
